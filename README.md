@@ -1,5 +1,6 @@
 # mnist-mlp-app
 이상하게 로컬에서도 서버 올라오고 다 잘돌아가는대. 
+
 Ainize 에 올려서 하면 "no healthy upstream" 이거만 자꾸 나오는지 모르겠습니다.
 
 
