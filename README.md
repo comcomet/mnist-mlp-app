@@ -3,6 +3,9 @@
 
 Ainize 에 올려서 하면 "no healthy upstream" 이거만 자꾸 나오는지 모르겠습니다.
 
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/comcomet/mnist-mlp-app)
+
+
 local
 
 ![local](https://user-images.githubusercontent.com/52145180/100236405-f8168480-2f70-11eb-95c5-5b5e5934d53c.png)
