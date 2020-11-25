@@ -10,10 +10,10 @@ This mnist-mlp code snippet derived from [Keras team](https://github.com/keras-t
 
 ## How to install thru Docker
 ```sh
-docker build -t mnist-mlp .
+sudo docker build -t mnist-mlp-app .
 ```
 
 ## How to run thru Docker
 ```sh
-docker run -it mnist-mlp
+sudo docker run -p 80:80 mnist-mlp-app
 ```
