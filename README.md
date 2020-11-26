@@ -1,8 +1,8 @@
 # mnist-mlp-app
-이상하게 로컬에서도 서버 올라오고 다 잘돌아가는대. 
+이상하게 로컬에서도 서버 올라오고 다 잘돌아가고
 
-Ainize 에 올려서 하면 "no healthy upstream" 이거만 자꾸 나오는지 모르겠습니다.
-----> 자구 일어나서 하니 됩니다.. AINIZE 에서 main을 선택해야 합니다. default 인 feature/server 말구여...
+Ainize 에 올려서 하면 
+----> AINIZE 에서 main을 선택해야 합니다. default 인 feature/server 말구여...
 
 [![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/comcomet/mnist-mlp-app)
 
@@ -16,8 +16,8 @@ ainize
 ![ai1](https://user-images.githubusercontent.com/52145180/100236807-7f63f800-2f71-11eb-973d-ecc938910b5b.png)
 
 
-no
-![aino](https://user-images.githubusercontent.com/52145180/100236730-63f8ed00-2f71-11eb-8dbf-ad9b94d9b5b2.png)
+anize 실행결과
+![anizelast](https://user-images.githubusercontent.com/52145180/100300069-925de300-2fd8-11eb-8554-09199cbe0fb2.png)
 
 
 
